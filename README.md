@@ -1,1 +1,1 @@
-# HairCut_Prices_Python_Lists
+Basic Loop Operations in a List of Hairstyles & Prices
